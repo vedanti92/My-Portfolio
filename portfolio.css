@@ -4,10 +4,23 @@ body {
     background-color: black;
 }
 
+.circle {
+    width: 160px;
+    height: 160px;
+    background-color: white;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+}
+
 img {
+    position: absolute;
+    top: 55.5px;
+    left: 55.5px;
     border-radius: 500%;
     height: 150px;
     width: 150px;
+    object-fit: cover;
 }
 
 h1 {
