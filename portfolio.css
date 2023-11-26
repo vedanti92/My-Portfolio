@@ -35,3 +35,9 @@ h2 {
     font-family: 'Inconsolata', monospace;
     color: white;
 }
+
+p {
+    font-family: 'Inconsolata', monospace;
+    color: white;
+    font-size: 20px;
+}
