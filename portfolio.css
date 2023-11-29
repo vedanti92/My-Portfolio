@@ -18,7 +18,7 @@ body {
     position: absolute;
     top: 55.5px;
     left: 55.5px;
-    border-radius: 500%;
+    border-radius: 50%;
     height: 150px;
     width: 150px;
     object-fit: cover;
@@ -40,4 +40,44 @@ p {
     font-family: 'Inconsolata', monospace;
     color: white;
     font-size: 20px;
+}
+
+.image-row {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+
+.image-1 {
+    margin-top: 2px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.image-2 {
+    margin-top: 2px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.image-3 {
+    margin-top: 2px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.image-4 {
+    margin-top: 2px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.image-5 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
 }
